@@ -41,7 +41,7 @@ Download all files and folders within this repository and install the required P
 
 ## How to Use
 
-1. Launch Sentinel by running `main.pv` on your device, with at least one compatible camera connected to it.
+1. Launch Sentinel by running `main.py` on your device, with at least one compatible camera connected to it.
 2. Open **Settings** and select the camera you want to use.
 3. Open **People** and select **+ Add Person** to register someone.
 4. Enter their name and follow the on-screen instructions to capture their face.
@@ -60,6 +60,22 @@ Because face data and recorded video may contain sensitive personal information,
 If you use Sentinel to monitor other people, ensure that you have the appropriate consent and comply with applicable privacy regulations.
 
 Face recognition may produce false positives and false negatives, so Sentinel should not be treated as an infallible identification system.
+
+---
+
+## Gallery
+
+### Dashboard
+![Dashboard](Description%20Images/Sentinel%20-%20Dashboard.png)
+
+### Saved Users Page
+![Saved Users Page](Description%20Images/Sentinel%20-%20Saved%20People%20Page.png)
+
+### Recorded Events and Detections Page
+![Recorded Events Page](Description%20Images/Sentinel%20-%20Recorded%20Events%20Page.png)
+
+### Settings Page (With Unsaved Settings)
+![Settings Page](Description%20Images/Sentinel%20-%20Settings%20Page.png)
 
 ---
 
